@@ -1,10 +1,10 @@
 # Euler Supported Assets
 
-This repository contains the tokens officially supported on Euler V2.
+Tokens officially supported on Euler V2.
 
 - [Ethereum](ethereum.csv)
 - [Arbitrum](arbitrum.csv)
 - [Base](base.csv)
 
-> [!NOTE]  
-> The lists published here are **provisional** and are subject to change prior to launch.
+> [!WARNING]  
+> This repository contains a list of tokens that have price oracle support from providers such as Chainlink, Pyth, RedStone,Chronicle, and API3. It is important to stress that no claim is made about the quality of oracles displayed in this list. It is the responsibility of vault creators to verify that the pricing system they deploy for their vault uses robust oracles.
