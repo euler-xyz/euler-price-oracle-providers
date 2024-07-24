@@ -1,4 +1,4 @@
-# Euler Supported Assets
+# Euler V2 Supported Assets
 
 Tokens officially supported on Euler V2.
 
@@ -7,4 +7,4 @@ Tokens officially supported on Euler V2.
 - [Base](base.csv)
 
 > [!WARNING]  
-> This repository contains a list of tokens that have price oracle support from providers such as Chainlink, Pyth, RedStone,Chronicle, and API3. It is important to stress that no claim is made about the quality of oracles displayed in this list. It is the responsibility of vault creators to verify that the pricing system they deploy for their vault uses robust oracles.
+> This repository contains a list of tokens that have price oracle support from providers such as Chainlink, Pyth, RedStone, Chronicle, and API3. It is important to stress that no claim is made about the quality of oracles displayed in this list. It is the responsibility of vault creators to verify that the pricing system they deploy for their vault uses robust oracles.
