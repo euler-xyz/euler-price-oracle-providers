@@ -1,0 +1,83 @@
+Token,Oracle Providers
+AAVE,"Chainlink, RedStone Core, Pyth"
+AGEUR,"RedStone Classic, Pyth"
+ANKR,Pyth
+ANKRETH,Chainlink
+ARB,"Chainlink, Chronicle, RedStone Core, Pyth"
+AURY,Pyth
+AXL,"Chainlink, Pyth"
+BAL,"Chainlink, RedStone Core, Pyth"
+CBETH,"Chainlink, Pyth"
+COMP,"Chainlink, Pyth"
+CRV,"Chainlink, RedStone Core, Pyth"
+CRVUSD,"Chainlink, RedStone Core"
+DAI,"Chainlink, RedStone Core, Pyth"
+EGETH,Chainlink
+ETH,"Chainlink, Chronicle, RedStone Core, Pyth"
+ETHFI,Pyth
+ETHX,"API3, Chainlink, RedStone Core"
+EUSD,RedStone Classic
+EZETH,"Chainlink, RedStone Core, Pyth"
+FRAX,"Chainlink, RedStone Core, Pyth"
+FXS,"Chainlink, RedStone Core, Pyth"
+GHO,"Chainlink, Pyth"
+GLP,RedStone Core
+GMARB,"Chainlink, RedStone Core"
+GMBTC,"Chainlink, RedStone Core"
+GMETH,"Chainlink, RedStone Core"
+GMLINK,RedStone Core
+GMSOL,RedStone Core
+GMUNI,RedStone Core
+GMX,"Chainlink, RedStone Core, Pyth"
+GNS,"Chainlink, Pyth"
+GRAIL,"RedStone Core, Pyth"
+GRT,"Chainlink, Pyth"
+JOE,"Chainlink, RedStone Core, Pyth"
+KNC,"Chainlink, Pyth"
+LDO,"Chainlink, Pyth"
+LINK,"Chainlink, RedStone Core, Pyth"
+LUSD,"Chainlink, Pyth"
+LVL,RedStone Core
+MAGIC,"Chainlink, RedStone Core"
+MIM,Pyth
+OSETH,Chainlink
+PENDLE,"Chainlink, Pyth"
+PENDLE LP-EETH-09/24,RedStone Core
+PENDLE LP-EZETH-09/24,RedStone Core
+PENDLE LP-RSETH-09/24,RedStone Core
+PENDLE LP-WSTETH-06/25,RedStone Core
+PENDLE PT-EETH-09/24,RedStone Core
+PENDLE PT-EZETH-09/24,RedStone Core
+PENDLE PT-RSETH-09/24,RedStone Core
+PENDLE PT-WSTETH-06/25,RedStone Core
+PREMIA,RedStone Classic
+RDNT,"Chainlink, Pyth"
+RETH,"Chainlink, RedStone Core, Pyth"
+RPL,"Chainlink, Pyth"
+RSETH,"Chainlink, RedStone Core, Pyth"
+RSR,"Chainlink, Pyth"
+RSWETH,"Chainlink, RedStone Core, Pyth"
+SFRAX,Chainlink
+SFRXETH,"Chainlink, RedStone Core, Pyth"
+SPELL,"Chainlink, Pyth"
+STG,"Chainlink, RedStone Core, Pyth"
+SWETH,"Chainlink, RedStone Core, Pyth"
+TBTC,"Chainlink, Pyth"
+TIA,"Chainlink, Pyth"
+TUSD,"Chainlink, Pyth"
+UNI,"Chainlink, RedStone Core, Pyth"
+UNIETH,Chainlink
+USD+,Chainlink
+USDC,"Chainlink, RedStone Core, Pyth"
+USDC.E,RedStone Core
+USDE,"Chainlink, RedStone Core, Pyth"
+USDT,"API3, Chainlink, RedStone Core, Pyth"
+USDV,Chainlink
+VELA,Pyth
+WBTC,"API3, Chainlink, Pyth"
+WEETH,"Chainlink, RedStone Classic, RedStone Core, Pyth"
+WOO,"Chainlink, RedStone Core, Pyth"
+WSTETH,"Chainlink, Chronicle, RedStone Core, Pyth"
+WUSDM,"API3, Chronicle"
+XAI,"Chainlink, Pyth"
+ZRO,"Chainlink, Pyth"
