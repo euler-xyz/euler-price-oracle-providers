@@ -1,42 +1,56 @@
 Token,Oracle Providers
 AAVE,"Chainlink, RedStone Core, Pyth"
-AGEUR,"RedStone Classic, Pyth"
-ANKR,Pyth
 ANKRETH,Chainlink
 ARB,"Chainlink, Chronicle, RedStone Core, Pyth"
 AURY,Pyth
 AXL,"Chainlink, Pyth"
 BAL,"Chainlink, RedStone Core, Pyth"
+BIFI,Pyth
 CBETH,"Chainlink, Pyth"
 COMP,"Chainlink, Pyth"
 CRV,"Chainlink, RedStone Core, Pyth"
 CRVUSD,"Chainlink, RedStone Core"
 DAI,"API3, Chainlink, RedStone Core, Pyth"
+DODO,"Chainlink, Pyth"
 EGETH,Chainlink
 ETH,"API3, Chainlink, Chronicle, RedStone Core, Pyth"
 ETHFI,Pyth
 ETHX,"API3, Chainlink, RedStone Core"
+EURA,"RedStone Classic, Pyth"
 EUSD,RedStone Classic
-EZETH,"Chainlink, RedStone Core, Pyth"
+EZETH,"API3, Chainlink, RedStone Core, Pyth"
 FRAX,"Chainlink, RedStone Core, Pyth"
+FRXETH,"Chainlink, RedStone Core, Pyth"
 FXS,"Chainlink, RedStone Core, Pyth"
 GHO,"Chainlink, Pyth"
 GLP,RedStone Core
-GMARB,"Chainlink, RedStone Core"
-GMBTC,"Chainlink, RedStone Core"
-GMETH,"Chainlink, RedStone Core"
-GMLINK,RedStone Core
-GMSOL,RedStone Core
-GMUNI,RedStone Core
+GMARB-USDC,"Chainlink, RedStone Core"
+GMATOM-USDC,RedStone Core
+GMBTC,RedStone Core
+GMBTC-USDC,"Chainlink, RedStone Core"
+GMETH,RedStone Core
+GMETH-USDC,"Chainlink, RedStone Core"
+GMGMX-USDC,RedStone Core
+GMLINK-USDC,RedStone Core
+GMNEAR-USDC,RedStone Core
+GMSOL-USDC,RedStone Core
+GMUNI-USDC,RedStone Core
 GMX,"Chainlink, RedStone Core, Pyth"
+GNO,Pyth
 GNS,"Chainlink, Pyth"
 GRAIL,"RedStone Core, Pyth"
 GRT,"Chainlink, Pyth"
+INETH,Chainlink
+INSTETH,Chainlink
 JOE,"Chainlink, RedStone Core, Pyth"
+KNC,"Chainlink, Pyth"
 LDO,"Chainlink, Pyth"
 LINK,"Chainlink, RedStone Core, Pyth"
+LUSD,"Chainlink, Pyth"
+LVL,RedStone Core
 MAGIC,"Chainlink, RedStone Core"
 MIM,Pyth
+MVI,Chainlink
 OSETH,Chainlink
 PENDLE,"Chainlink, Pyth"
 PENDLE LP-EETH-09/24,RedStone Core
@@ -47,30 +61,46 @@ PENDLE PT-EETH-09/24,RedStone Core
 PENDLE PT-EZETH-09/24,RedStone Core
 PENDLE PT-RSETH-09/24,RedStone Core
 PENDLE PT-WSTETH-06/25,RedStone Core
+PEPE,"Chainlink, Pyth"
 PREMIA,RedStone Classic
+PYTH,Pyth
 RDNT,"API3, Chainlink, Pyth"
 RETH,"Chainlink, RedStone Core, Pyth"
+RPL,"Chainlink, Pyth"
 RSETH,"API3, Chainlink, RedStone Core, Pyth"
-RSWETH,"Chainlink, RedStone Core, Pyth"
-SFRAX,Chainlink
-SFRXETH,"Chainlink, RedStone Core, Pyth"
+RSR,"Chainlink, Pyth"
+SFRAX,"Chainlink, Cross (Chainlink)"
+SFRXETH,"Chainlink, RedStone Core, Pyth, Cross (Chainlink)"
 SPELL,"Chainlink, Pyth"
 STG,"Chainlink, RedStone Core, Pyth"
+SUSDE,"Chainlink, RedStone Classic, RedStone Core, Pyth"
+SUSHI,"Chainlink, Pyth"
 SWETH,"Chainlink, RedStone Core, Pyth"
 TBTC,"Chainlink, Pyth"
+TUSD,"Chainlink, Pyth"
 UNI,"Chainlink, RedStone Core, Pyth"
 UNIETH,"API3, Chainlink"
 USD+,Chainlink
 USDC,"API3, Chainlink, RedStone Core, Pyth"
 USDC.E,RedStone Core
+USDD,"Chainlink, Pyth"
 USDE,"Chainlink, RedStone Core, Pyth"
+USDM,Pyth
 USDT,"API3, Chainlink, RedStone Core, Pyth"
 USDV,Chainlink
 VELA,Pyth
-WBTC,"API3, Chainlink, Pyth"
+W,Pyth
+WBTC,"API3, Chainlink, Pyth, Cross (Chainlink)"
 WEETH,"API3, Chainlink, RedStone Classic, RedStone Core, Pyth"
+WOETH,Chainlink
+WOM,Pyth
 WOO,"Chainlink, RedStone Core, Pyth"
-WSTETH,"Chainlink, Chronicle, RedStone Core, Pyth"
+WSTETH,"Chainlink, Chronicle, RedStone Core, Pyth, Cross (Chainlink)"
 WUSDM,"API3, Chronicle"
 XAI,"Chainlink, Pyth"
+XVS,"Chainlink, RedStone Classic"
+YFI,"Chainlink, Pyth"
+YIELD YAK STG S*ETH,RedStone Core
+YIELD YAK STG S*USDC,RedStone Core
+YIELD YAK STG S*USDT,RedStone Core
 ZRO,"Chainlink, Pyth"
