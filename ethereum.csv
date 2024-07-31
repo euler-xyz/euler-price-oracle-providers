@@ -3,7 +3,6 @@ Token,Oracle Providers
 3CRV,RedStone Core
 AAVE,"RedStone Core, Pyth, Chainlink"
 AEVO,Pyth
-AGEUR,"RedStone Core, Pyth, Chainlink"
 ALCX,Chainlink
 ALT,Pyth
 AMP,Pyth
@@ -37,6 +36,7 @@ ETH,"Chronicle, RedStone Core, Pyth, Chainlink"
 ETH+,"RedStone Classic, RedStone Core"
 ETHFI,Pyth
 ETHX,"RedStone Classic, RedStone Core, Chainlink"
+EURA,"RedStone Core, Pyth, Chainlink"
 EURC,Pyth
 EUROC,RedStone Core
 EUSD,"RedStone Classic, RedStone Core"
@@ -46,7 +46,7 @@ FLOKI,Pyth
 FRAX,"RedStone Core, Pyth, Chainlink"
 FTM,"Pyth, Chainlink"
 FXS,"RedStone Core, Pyth, Chainlink"
-GAL,Pyth
+G,Pyth
 GALA,Pyth
 GHO,"RedStone Core, Pyth, Chainlink"
 GMX,Pyth

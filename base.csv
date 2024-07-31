@@ -1,11 +1,11 @@
 Token,Oracle Providers
 AERO,"Chainlink, Pyth"
-AGEUR,Pyth
 BSDETH,RedStone Classic
 CBETH,"Chainlink, Chronicle, Pyth"
 DAI,"API3, Chainlink, Chronicle, Pyth"
 DEGEN,"API3, Chainlink"
 ETH,"API3, Chainlink, Chronicle, Pyth"
+EURA,Pyth
 EUSD,RedStone Classic
 EZETH,"API3, Chainlink, Pyth"
 HYUSD,Chronicle
@@ -13,10 +13,16 @@ LUSD,Pyth
 MAVIA,Chainlink
 PRIME,Pyth
 RETH,"Chainlink, Chronicle, Pyth"
+RSETH,"API3, Pyth"
+RSR,"Chainlink, Pyth"
 SFRXETH,"Chainlink, Pyth"
+SNX,"Chainlink, Pyth"
+STG,"Chainlink, Pyth"
 TBTC,"Chainlink, Pyth"
 USD+,"Chainlink, RedStone Classic"
 USDC,"API3, Chainlink, Chronicle, Pyth"
 WEETH,"Chainlink, Pyth"
 WSTETH,"API3, Chainlink, Chronicle, Pyth"
+WUSDM,Chronicle
+YFI,"Chainlink, Pyth"
 ZRO,"Chainlink, Pyth"
